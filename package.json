@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0",
+    "mongoose": "^8.6.1",
+    "socket.io": "^4.7.5"
+  },
+  "name": "chatterup",
+  "description": "ChatterUp is an interactive real-time chat application designed to facilitate seamless communication and interaction between users. Built using Node.js, Express.js, Socket.io, and MongoDB, it offers a robust and engaging chat experience.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
