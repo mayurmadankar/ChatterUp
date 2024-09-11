@@ -112,7 +112,7 @@ The API structure for ChatterUp includes routes for rendering the UI, managing u
 ##Screenshots
 
 - Home
-  ![Home Page](/public/Conversation-Page.png "Home Page")
+  ![Conversation Page](public/Home-Page.png "Home Page")
 
 - Message
-  ![Conversation Page](public/Home-Page.png "Home Page")
+  ![Home Page](/public/Conversation-Page.png "Home Page")
