@@ -5,7 +5,7 @@ const baseUrl = process.env.MONGODB;
 // Connect to the database
 export const connectToDatabase = async () => {
   try {
-    await mongoose.connect(`mongodb://${baseUrl}/chatterup`);
+    await mongoose.connect(baseUrl);
     console.log("MongoDB connected using mongoose");
   } catch (err) {
     console.log(err);
